@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsTWURAvkjFGZwjrqRwHfOhCum6qnRAgEic1as/W750idWTFPSDEgGlZT3AdVnMlrfVbc30vkAAhiD+FhlUkUw==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\XamlKeypad\\XamlKeypad\\XamlKeypad.iOS\\XamlKeypad.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

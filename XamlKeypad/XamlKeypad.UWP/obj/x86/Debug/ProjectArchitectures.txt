@@ -1,0 +1,1 @@
+C:\prjS\_xamarinPrjs\XamlKeypad\XamlKeypad\XamlKeypad.UWP\XamlKeypad.UWP.csproj;x86
